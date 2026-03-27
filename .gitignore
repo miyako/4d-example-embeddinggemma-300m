@@ -1,0 +1,4 @@
+EmbeddingGemma/Data/*
+EmbeddingGemma/Project/DerivedData/formAttributes.json
+EmbeddingGemma/Project/DerivedData/methodAttributes.json
+EmbeddingGemma/userPreferences.*
