@@ -1,5 +1,7 @@
 ## [google/embeddinggemma-300m](https://huggingface.co/google/embeddinggemma-300m)
 
+**EmbeddingGemma** is an encoder-only text embedding model released by **Google** in 2025.
+
 |`max_position_embeddings`|`hidden_size`|`num_hidden_layers`|`pooling`
 |-:|-:|-:|-:|
 |`2048`|`768`|`24`|`mean`
