@@ -4,7 +4,7 @@ $AIClient:=cs:C1710.AIKit.OpenAI.new()
 
 $AIClient.baseURL:="http://127.0.0.1:8080/v1"  // llama-server
 
-$query:="query: 4D Serverが使用するTCPポート番号を教えて?"
+$query:="4D Serverが使用するTCPポート番号を教えて?"
 
 var $batch : cs:C1710.AIKit.OpenAIEmbeddingsResult
 $batch:=$AIClient.embeddings.create($query)
